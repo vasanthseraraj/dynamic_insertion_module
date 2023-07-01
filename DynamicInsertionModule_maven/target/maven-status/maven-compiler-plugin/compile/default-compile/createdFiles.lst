@@ -1,0 +1,5 @@
+com/vf/dynamicinsertion/InsertRecords.class
+com/vf/utils/DBConnection.class
+com/vf/utils/LoadProperities.class
+com/vf/bean/InsertDto.class
+com/vf/dynamicinsertion/DynamicInsertion.class

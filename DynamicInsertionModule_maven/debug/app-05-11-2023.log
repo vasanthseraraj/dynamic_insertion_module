@@ -1,0 +1,15 @@
+2023-05-11 11:46:51.879 [main] INFO  com.valuefirst.DynamicInsertion - {password=Vasanth@2999, driver=com.mysql.cj.jdbc.Driver, noOfRecords=10, url=jdbc:mysql://localhost:3306/ValueFirst, colNameTypeInfo=first_name:String;last_name:String;age:Integer;inserted_on:Date, username=root, tableName=Users}
+2023-05-11 11:46:52.239 [main] INFO  com.valuefirst.DynamicInsertion - Query: INSERT INTO Users (first_name,last_name,age,inserted_on) VALUES(?,?,?,?)
+2023-05-11 11:46:52.252 [main] INFO  com.valuefirst.DynamicInsertion - 10 records inserted into the Users table within 357ms
+2023-05-11 11:47:34.704 [main] INFO  com.valuefirst.DynamicInsertion - {password=Vasanth@2999, driver=com.mysql.cj.jdbc.Driver, noOfRecords=10, url=jdbc:mysql://localhost:3306/ValueFirst, colNameTypeInfo=first_name:String;last_name:String;age:Integer;inserted_on:Date, username=root, tableName=Users}
+2023-05-11 11:47:35.021 [main] INFO  com.valuefirst.DynamicInsertion - Query: INSERT INTO Users (first_name,last_name,age,inserted_on) VALUES(?,?,?,?)
+2023-05-11 11:47:35.027 [main] INFO  com.valuefirst.DynamicInsertion - 10 records inserted into the Users table within 314ms
+2023-05-11 11:54:00.890 [main] INFO  com.valuefirst.DynamicInsertion - {password=Vasanth@2999, driver=com.mysql.cj.jdbc.Driver, noOfRecords=10, url=jdbc:mysql://localhost:3306/ValueFirst, colNameTypeInfo=first_name:String;last_name:String;age:Integer;inserted_on:Date, username=root, tableName=Users}
+2023-05-11 11:54:01.236 [main] INFO  com.valuefirst.DynamicInsertion - Query: INSERT INTO Users (first_name,last_name,age,inserted_on) VALUES(?,?,?,?)
+2023-05-11 11:54:01.236 [main] INFO  com.valuefirst.DynamicInsertion - 10 records inserted into the Users table within 344ms
+2023-05-11 12:05:14.485 [main] INFO  com.valuefirst.DynamicInsertion - {password=Vasanth@2999, driver=com.mysql.cj.jdbc.Driver, noOfRecords=10, url=jdbc:mysql://localhost:3306/ValueFirst, colNameTypeInfo=first_name:String;last_name:String;age:Integer;inserted_on:Date, username=root, tableName=Users}
+2023-05-11 12:05:14.966 [main] INFO  com.valuefirst.DynamicInsertion - Query: INSERT INTO Users (first_name,last_name,age,inserted_on) VALUES(?,?,?,?)
+2023-05-11 12:05:14.966 [main] INFO  com.valuefirst.DynamicInsertion - 10 records inserted into the Users table within 478ms
+2023-05-11 12:53:11.405 [main] INFO  com.vf.utils.LoadProperities - {password=Vasanth@2999, driver=com.mysql.cj.jdbc.Driver, noOfRecords=10, url=jdbc:mysql://localhost:3306/ValueFirst, colNameTypeInfo=first_name:String;last_name:String;age:Integer;inserted_on:Date, username=root, tableName=Users}
+2023-05-11 12:53:11.914 [main] INFO  com.vf.dynamicinsertion.InsertRecords - Query: INSERT INTO Users (first_name,last_name,age,inserted_on) VALUES(?,?,?,?)
+2023-05-11 12:53:11.915 [main] INFO  com.vf.dynamicinsertion.InsertRecords - 10 records inserted into the Users table within 506ms

@@ -1,0 +1,4 @@
+2023-05-25 14:26:37.736 [main] INFO  com.vf.dynamicinsertion.utils.LoadProperities - {password=Vasanth@2999, driver=com.mysql.cj.jdbc.Driver, noOfRecords=10, url=jdbc:mysql://localhost:3306/ValueFirst, colNameTypeInfo=first_name:String;last_name:String;age:Integer;inserted_on:Date, username=root, tableName=Users}
+2023-05-25 14:26:37.739 [main] INFO  com.vf.dynamicinsertion.utils.LoadProperities - Properties has been loaded...
+2023-05-25 14:26:38.274 [main] INFO  com.vf.dynamicinsertion.insert.InsertRecords - Query: INSERT INTO Users (first_name,last_name,age,inserted_on) VALUES(?,?,?,?)
+2023-05-25 14:26:38.274 [main] INFO  com.vf.dynamicinsertion.insert.InsertRecords - 10 records inserted into the Users table within 533ms

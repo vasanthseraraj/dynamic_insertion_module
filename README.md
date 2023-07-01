@@ -1,6 +1,6 @@
 -Enable dynamic insertion of records into any database table without hardcoding the table schema or column names.
 
--Utilize a configuration file (JSON or XML) to define the table structure and record data.
+-Utilize a configuration file to define the table structure and record data.
 
 -Implement table mapping to ensure accurate field-column correspondence.
 
